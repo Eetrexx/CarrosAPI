@@ -31,7 +31,7 @@ namespace CarrosAPI
         {
 	
 	
-            services.AddDbContext<projetocarrosdbContext>(opt => opt.UseSqlServer(Configuration.GetConfigurationString("projetocarrosdbContext")));
+            services.AddDbContext<projetocarrosdbContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("projetocarrosdbContext")));
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

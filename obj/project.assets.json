@@ -7337,11 +7337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eetrexx\\Documents\\CarrosAPI\\CarrosAPI.csproj",
+      "projectUniqueName": "E:\\Eetrexx\\Documents\\CarrosAPI\\CarrosAPI.csproj",
       "projectName": "CarrosAPI",
-      "projectPath": "C:\\Users\\Eetrexx\\Documents\\CarrosAPI\\CarrosAPI.csproj",
+      "projectPath": "E:\\Eetrexx\\Documents\\CarrosAPI\\CarrosAPI.csproj",
       "packagesPath": "C:\\Users\\Eetrexx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eetrexx\\Documents\\CarrosAPI\\obj\\",
+      "outputPath": "E:\\Eetrexx\\Documents\\CarrosAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eetrexx\\AppData\\Roaming\\NuGet\\NuGet.Config",
